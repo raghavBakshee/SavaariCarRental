@@ -34,6 +34,7 @@ public class NewTestCases {
 
 	  driver.get(ReadProperty.getPropData("URL"));
 	  //driver.manage().window().maximize();
+	  //Browser is opening...
 	  
   }
 

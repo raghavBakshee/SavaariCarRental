@@ -1,0 +1,11 @@
+FirefoxPath="D:\\Dwnlds\\geckodriver.exe"
+
+ 
+
+ChromePath="C:\\Users\\Raghav\\Downloads\\Compressed\\chromedriver_win32\\chromedriver.exe"
+IEPath=
+
+ExcelPath=""
+URL=http://www.savaari.com/outstation-taxi/car-rentals
+
+DateFormatString= "yyyy-MM-dd_HH-mm-ss"
